@@ -1,6 +1,6 @@
 # Build a Hello Rectangle App
 
-This application is build under **Udacity** course on 'Build Native Apps With Flutter 
+This application is build under **Udacity** course on Build Native Apps With Flutter.
 
 ## Goals
 
