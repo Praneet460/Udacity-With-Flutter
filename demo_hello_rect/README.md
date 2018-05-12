@@ -32,4 +32,4 @@ app's project directory.
 
 ## Screenshots
 
-![app](https://user-images.githubusercontent.com/23660137/39960320-6afc3030-563e-11e8-8d91-3b3451f000ca.png=100x100)
+<img src="https://user-images.githubusercontent.com/23660137/39960320-6afc3030-563e-11e8-8d91-3b3451f000ca.png" height = 600px/>
